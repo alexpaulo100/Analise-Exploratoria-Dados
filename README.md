@@ -1,6 +1,6 @@
 ### Analise-Exploratoria-Dados
 #### Realizado em aula na DSA
-#### Repositorio de estudos
+
 Estudo de Caso
 
 Uma empresa internacional de comércio eletrônico(E-commerce)que vende produtos eletrônicos deseja descobrir informações importantes de seu banco de dados de clientes. 
